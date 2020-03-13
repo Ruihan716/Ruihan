@@ -88,7 +88,7 @@ a.link{
 }
 
 #column1-1{
-	background-color: purple;
+	background-color: black;
 	width: 400px;
 	height:300px;
 	margin-left: 100px;
@@ -102,7 +102,7 @@ a.link{
 }
 
 #column1-2{
-	background-color: blue;
+	background-color: black;
 	width: 400px;
 	height: 300px;
 	margin-left: 100px;
@@ -125,6 +125,15 @@ h2{
 	margin-right: 30px;
 	
 	font-family: Palatino;
+}
+
+h3{
+	color: #E6E6E6;
+	margin-top: 30pX;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	margin-right: 30px;
+	font-family: Helvetica, sans-serif;
 }
 
 h5{
